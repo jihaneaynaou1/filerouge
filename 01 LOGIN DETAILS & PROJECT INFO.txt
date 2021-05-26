@@ -1,0 +1,12 @@
+**Database Name: ecommerceapp**
+
+**Developed by jihane Aynaou**
+
+**Recommended PHP Version 5.6.3**
+
+
+
+**Admin Login Details**
+
+Email:    jihanadmin@gmail.com
+Password: jihanadmin
