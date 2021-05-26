@@ -50,7 +50,7 @@ Confirmer la commande
 
 ## diagramme de cas d'utilisation
 
-## diagramme 
+## diagramme de classe
 
 
 ## Conclusion
