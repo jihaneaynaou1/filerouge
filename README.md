@@ -6,42 +6,42 @@ Bonjour , C'est mon premier projet e-commerce complet le nom de site jihanshop  
 
 ## Plateforme utilisée
 ### L'extrémité avant
-HTML5 
-CSS3 
-bootstrap
-JavaScript 
+HTML5 ,
+CSS3  ,
+bootstrap ,
+JavaScript  ,
 
 ### Back-End
-PHP 
+PHP  ,
 MySQL 
 
 ## Principales caractéristiques
 
 ## Gestion des produits
-Rechercher un produit
-Ajouter un produit
-Modifier un produit
-Supprimer un produit
+Rechercher un produit ,
+Ajouter un produit ,
+Modifier un produit ,
+Supprimer un produit ,
 Visualiser un produit
 
 
 ## Gestion des catégories
-Ajouter une catégorie
-Modifier une catégorie
-Supprimer une catégorie
+Ajouter une catégorie ,
+Modifier une catégorie ,
+Supprimer une catégorie ,
 Visualiser une catégorie
 
 ## Gestion des clients
-Modifier un client
-Supprimer un client
+Modifier un client ,
+Supprimer un client ,
 Visualiser un client
 
 
 ### Admin
-Interface Admin Login
-Ajouter un nouveau produit
-Mettre en place une gestion des visuels produits
-Affichez les statistiques des produits, clients
+Interface Admin Login ,
+Ajouter un nouveau produit ,
+Mettre en place une gestion des visuels produits ,
+Affichez les statistiques des produits, clients ,
 Confirmer la commande
 
 ## inscription pour devenir un client
